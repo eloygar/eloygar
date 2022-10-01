@@ -1,15 +1,13 @@
 ###  Mi nombre es Eloy García👋	:es:
 #### Estudiante de DAM :computer: actualmente **centrado en mejorar y apreder**:top:
 ![Dinosaurio](https://www.actualidadgadget.com/wp-content/uploads/2018/02/t-rex.gif)
-
-
-
-###Enlaces a mis ultimos proyectos :trollface:
+---
+###Enlaces a mis ultimos proyectos
 ---
 :octocat:[Proyecto1](https://github.com/eloygar/veryimportantopensourceproject)
 ---
 :thumbsup:[Proyecto2](https://github.com/eloygar/Web-Animaciones)
-
+---
 <!--
 **eloygar/eloygar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
