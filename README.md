@@ -1,5 +1,5 @@
 ###  Mi nombre es Eloy García👋	:es:
-#### Estudiante de DAM 💻 actualmente **centrado en mejorar y apreder** :computer:
+#### Estudiante de DAM :computer: actualmente **centrado en mejorar y apreder**:top:
 ![Dinosaurio](https://www.actualidadgadget.com/wp-content/uploads/2018/02/t-rex.gif)
 
 <!--
