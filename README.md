@@ -1,4 +1,7 @@
-### Hi there 👋
+### Mi nombre es Eloy García👋
+#### Estudiante de DAM 💻 actualmente **centrado en mejorar y apreder**
+
+![Dinosaurio]([http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif](https://pa1.narvii.com/6957/d2eb600c80c27ee32a019bcddccbc83ec7394c92r1-500-150_hq.gif))
 
 <!--
 **eloygar/eloygar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
