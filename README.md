@@ -2,7 +2,7 @@
 #### Estudiante de DAM :computer: actualmente **centrado en mejorar y apreder**:top:
 ![Dinosaurio](https://www.actualidadgadget.com/wp-content/uploads/2018/02/t-rex.gif)
 ---
-###Enlaces a mis ultimos proyectos
+### Enlaces a mis ultimos proyectos
 ---
 :octocat:[Proyecto1](https://github.com/eloygar/veryimportantopensourceproject)
 ---
