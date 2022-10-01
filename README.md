@@ -4,8 +4,10 @@
 
 
 
-####Enlaces a mis ultimos proyectos :trollface:
+###Enlaces a mis ultimos proyectos :trollface:
+---
 :octocat:[Proyecto1](https://github.com/eloygar/veryimportantopensourceproject)
+---
 :thumbsup:[Proyecto2](https://github.com/eloygar/Web-Animaciones)
 
 <!--
