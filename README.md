@@ -5,11 +5,14 @@
 ### Enlaces a mis ultimos proyectos
 ---
 ### Proyectos de Animaciones 
+---
 
 [Proyecto 1](https://github.com/eloygar/Animacion-JavaScript)
+
 [Pulsa aquí para ver la Animación](https://eloygar.github.io/Animacion-JavaScript/)
 
 [Proyecto 2](https://github.com/eloygar/Animacion-Keyframes)
+
 [Pulsa aquí para ver la Animación](https://eloygar.github.io/Animacion-Keyframes/)
 ---
 
