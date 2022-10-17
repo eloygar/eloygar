@@ -4,9 +4,17 @@
 ---
 ### Enlaces a mis ultimos proyectos
 ---
-:octocat:[Proyecto1](https://github.com/eloygar/veryimportantopensourceproject)
+### Proyectos de Animaciones 
+
+[Proyecto 1](https://github.com/eloygar/Animacion-JavaScript)
+[Pulsa aquí para ver la Animación](https://eloygar.github.io/Animacion-JavaScript/)
+
+[Proyecto 2](https://github.com/eloygar/Animacion-Keyframes)
+[Pulsa aquí para ver la Animación](https://eloygar.github.io/Animacion-Keyframes/)
 ---
-:thumbsup:[Proyecto2](https://github.com/eloygar/Web-Animaciones)
+
+:octocat:[Proyecto hacktoberfest](https://github.com/eloygar/veryimportantopensourceproject)
+
 ---
 <!--
 **eloygar/eloygar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
