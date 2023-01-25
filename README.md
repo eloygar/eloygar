@@ -1,4 +1,4 @@
-###  Mi nombre es Eloy García👋	:es:
+###  Mi nombre es Eloy García![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)	:es:
 #### Estudiante de DAM :computer: actualmente **centrado en mejorar y apreder**:top:
 ![Dinosaurio](https://www.actualidadgadget.com/wp-content/uploads/2018/02/t-rex.gif)
 ---
