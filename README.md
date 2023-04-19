@@ -3,7 +3,6 @@
 ![Dinosaurio](https://www.actualidadgadget.com/wp-content/uploads/2018/02/t-rex.gif)
 ---
 ### Lenguajes mas usados
-<a sc="https://github-readme-stats.vercel.app/api/top-langs/?username=eloygar&hide=html,css,smali,makefile,dogescript&langs_count=10">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloygar&hide=html,css,smali,makefile,dogescript&langs_count=10)
 
 ---
