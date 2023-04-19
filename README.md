@@ -4,7 +4,7 @@
 ---
 ### Lenguajes mas usados
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloygar&hide=html,css,smali,makefile,dogescript&langs_count=10)
+  <a src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloygar&hide=html,css,smali,makefile,dogescript&langs_count=10)">
 </p>
 ---
 ### Proyectos de Animaciones 
