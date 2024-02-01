@@ -1,17 +1,13 @@
 ###  Mi nombre es Eloy García![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)	:es:
 #### Estudiante de Desarrollo de Aplicaciones Multiplataforma :computer: actualmente **centrado en mejorar y apreder**:top:
 
-![](https://komarev.com/ghpvc/?username=eloygar&color=lightgrey&style=for-the-badge&label=TOTAL+PROFILE+VIEWS)
-![trophy](https://github-profile-trophy.vercel.app/?username=eloygar&theme=dracula)
 
+![](https://komarev.com/ghpvc/?username=eloygar&color=lightgrey&style=for-the-badge&label=TOTAL+PROFILE+VIEWS)
 ![Dinosaurio](https://www.actualidadgadget.com/wp-content/uploads/2018/02/t-rex.gif)
----
-### Lenguajes mas usados
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloygar&langs_count=20&layout=compact&theme=dracula)]
+![trophy](https://github-profile-trophy.vercel.app/?username=eloygar&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloygar&langs_count=20&layout=compact&theme=dracula)
 ![github stats](https://github-readme-stats.vercel.app/api?username=eloygar&show_icons=true&theme=dracula&count_private=true)
----
-### Proyectos de Animaciones 
----
+
 
 [Proyecto 1](https://github.com/eloygar/Animacion-JavaScript)
 
