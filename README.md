@@ -47,6 +47,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </p>
 
 <h3 align="left">Stars</h3> <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloygar&hide_progress=true&theme=transparent" alt=eloygar /> <p>&nbsp; <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=eloygar&show_icons=true&locale=en&theme=transparent" alt="eloygar" /></p> <p align="center"><img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=eloygar&theme=transparent" alt="eloygar" /></p>
