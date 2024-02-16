@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="GIF">, I'm Eloy</h1>
-<h3 align="center">Multiplatform Application Development Student 💻 currently focused on improving and learning 🔝</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eloygar&label=Profile%20views&color=0e75b6&style=flat" alt="eloygar" /> </p>
+ <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="GIF">, I'm Eloy</h1>
+<h3 align="center">Multiplatform Application Development Student 💻 currently focused on improving and learning 🔝  </h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eloygar&label=Profile%20views&color=0e75b6&style=flat" alt="eloygar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eloygar&theme=dracula" alt="eloygar" /></a> </p>
+
 
 - I’m currently working on [RestApi](https://github.com/eloygar/RestAPI)
 - Last project [openai-article-summarizer](https://github.com/eloygar/openai-article-summarizer)
@@ -49,9 +49,5 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </p>
-
-<h3 align="left">Stars</h3> <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloygar&hide_progress=true&theme=transparent" alt=eloygar /> <p>&nbsp; <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=eloygar&show_icons=true&locale=en&theme=transparent" alt="eloygar" /></p> <p align="center"><img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=eloygar&theme=transparent" alt="eloygar" /></p>
-
-
-
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eloygar&theme=dracula" alt="eloygar" /></a> </p>
+<p align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloygar&hide_progress=true&theme=transparent" alt=eloygar /></p>
